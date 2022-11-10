@@ -1,0 +1,26 @@
+GENERAL EXPLORATION
+1. How many artworks?
+    Visualizzazioni con JS
+2. When do artworks date back?
+    Timeline 
+3. When were artworks acquired?
+    Timeline 
+4. How many artists?
+   Visualizzazioni con JS
+5. What is the most represented gender?
+    Maschio e femmina... sarebbe carino farlo un pelo più originale
+6. What are the most represented nationalities?
+
+7
+
+What are the most acquired artists in museums (in general)?
+Is there a gender gap in the selection of artists? UOMO-DONNA BASIC
+What are the most represented nationalities (in general)? A TORTA/MENO BASIC MA IL CONCETTO E' QUELLO
+What are the most represented movements or genres (in general)? STESSO COME SOPRA
+How have acquisition criteria changed (over time) in museums?
+In which years are artists' works mostly acquired? BAR CHART/RADIAL BARCHART PER OGNI MUSEO + LINEPLOT PER COMPARARE I 4
+When does the gender gap decreases (if it does)? COMPUTE PERCENTAGE OF MALE/FEMALE ARTIST ACQUIRED IN TIMESLOTS + COMPARE ACROSS TIME SLOTS PIECHART/ STACKED BAR CHART WITH ONLY 2 COLORS
+In which years artists' nationalities more influent on the selection? STACKED BAR CHART, SEE TELEGRAM INSPO
+In which years artists' movements/genres more influent on the selection?
+If we compare criteria of all museums, in general and over time, do we see any similarity or significant difference?
+Do certain museums acquire more works based on artists/artists' gender/nationality/movement than others?
