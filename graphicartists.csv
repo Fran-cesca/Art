@@ -1,3 +1,3 @@
-,id,name,gender,dates,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url,Artist Entity
-834,5669,Viktor Deni,,1893–1946,1893.0,1946.0,,,http://www.tate.org.uk/art/artists/viktor-deni-5669,Q503993
-3319,14825,Shelagh Wakely,,1932–2011,1932.0,2011.0,,,http://www.tate.org.uk/art/artists/shelagh-wakely-14825,Q26457496
+Id,Name,Gender,placeOfBirth,Artist Entity
+5669,Viktor Deni,0,0,Q503993
+14825,Shelagh Wakely,0,0,Q26457496

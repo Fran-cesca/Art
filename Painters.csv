@@ -1,9 +1,9 @@
-,id,name,gender,dates,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url,Artist Entity
-684,3807,Samuel Cooper,,1609–1672,1609.0,1672.0,,,http://www.tate.org.uk/art/artists/samuel-cooper-3807,Q1382316
-922,12074,Gaspard Dughet,,1615–1675,1615.0,1675.0,,,http://www.tate.org.uk/art/artists/gaspard-dughet-12074,Q741375
-979,14308,Eugenio Espinoza,,born 1950,1950.0,,,,http://www.tate.org.uk/art/artists/eugenio-espinoza-14308,Q77349603
-1762,5645,Nikolai Kogout,,1891–1959,1891.0,1959.0,,,http://www.tate.org.uk/art/artists/nikolai-kogout-5645,Q15068972
-1785,17127,Vladimir Kozlinsky,,1891 – 1967,1891.0,1967.0,,,http://www.tate.org.uk/art/artists/vladimir-kozlinsky-17127,Q24351555
-2413,17008,James Orrock,,1829–1913,1829.0,1913.0,,,http://www.tate.org.uk/art/artists/james-orrock-17008,Q6140661
-2995,13098,Monika Sosnowska,,born 1972,1972.0,,,,http://www.tate.org.uk/art/artists/monika-sosnowska-13098,Q520491
-3386,18071,Richard Westmacott,,1775–1856,1775.0,1856.0,,,http://www.tate.org.uk/art/artists/richard-westmacott-18071,Q6238282
+Id,Name,Gender,placeOfBirth,Artist Entity
+3807,Samuel Cooper,0,0,Q1382316
+12074,Gaspard Dughet,0,0,Q741375
+14308,Eugenio Espinoza,0,0,Q77349603
+5645,Nikolai Kogout,0,0,Q15068972
+17127,Vladimir Kozlinsky,0,0,Q24351555
+17008,James Orrock,0,0,Q6140661
+13098,Monika Sosnowska,0,0,Q520491
+18071,Richard Westmacott,0,0,Q6238282

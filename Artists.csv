@@ -1,6 +1,6 @@
-,id,name,gender,dates,yearOfBirth,yearOfDeath,placeOfBirth,placeOfDeath,url,Artist Entity
-84,657,Shusaku Arakawa,,1936–2010,1936.0,2010.0,"Nagoya, Nihon","New York, United States",http://www.tate.org.uk/art/artists/shusaku-arakawa-657,Q478264
-1771,14424,Kiyohiko Komura,,1899–1969,1899.0,1969.0,,,http://www.tate.org.uk/art/artists/kiyohiko-komura-14424,Q64826662
-2000,16926,Len Lye,,,,,,,http://www.tate.org.uk/art/artists/len-lye-16926,Q1288566
-2121,5672,Vladimir Mayakovsky,,1893–1930,1893.0,1930.0,,,http://www.tate.org.uk/art/artists/vladimir-mayakovsky-5672,Q132964
-2870,18266,Mithu Sen,,born 1971,1971.0,,,,http://www.tate.org.uk/art/artists/mithu-sen-18266,Q43136922
+Id,Name,Gender,placeOfBirth,Artist Entity
+657,Shusaku Arakawa,0,"Nagoya, Nihon",Q478264
+14424,Kiyohiko Komura,0,0,Q64826662
+16926,Len Lye,0,0,Q1288566
+5672,Vladimir Mayakovsky,0,0,Q132964
+18266,Mithu Sen,0,0,Q43136922
