@@ -13,6 +13,11 @@ body {
     font-size: 26px;
 }
 
+.underline {
+    text-decoration: underline;
+    text-underline-position: below;
+}
+
 h1 {
     font-family: 'Noto Serif Display', serif;
 }
@@ -326,7 +331,7 @@ section {
 #sec9a {
     position: absolute;
     width: 50%;
-    bottom: 70%;
+    bottom: 75%;
     text-align: center;
     font-family: 'Noto Serif Display', serif;
     text-transform: uppercase;
@@ -342,6 +347,36 @@ section {
     left: 50%;
     transform: translate(-50%, -40%);
     text-align: center;
+}
+
+#sec18a {
+    position: absolute;
+    width: 39%;
+    left: 5%;
+    bottom: 10%;
+}
+
+#sec18b {
+    position: absolute;
+    width: 35%;
+    left: 60%;
+    bottom: 10%;
+}
+
+
+#sec19a {
+    position: absolute;
+    width: 39%;
+    left: 55%;
+    bottom: 10%;
+    text-align: right;
+}
+
+#sec19b {
+    position: absolute;
+    width: 35%;
+    left: 5%;
+    bottom: 10%;
 }
 
 #sec14b {
