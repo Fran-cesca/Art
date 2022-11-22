@@ -379,6 +379,21 @@ section {
     bottom: 10%;
 }
 
+#sec21a {
+    position: absolute;
+    width: 37%;
+    left: 57%;
+    bottom: 16%;
+    text-align: right;
+}
+
+#sec21b {
+    position: absolute;
+    width: 35%;
+    left: 5%;
+    bottom: 15%;
+}
+
 #sec14b {
     position: absolute;
     width: 70%;
