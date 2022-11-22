@@ -310,7 +310,7 @@ section {
     font-size: 65px;
 }
 
-#sec4a, #sec5a, #sec6a, #sec7a, #sec9a, #sec10a, #sec12a, #sec14a {
+#sec4a, #sec5a, #sec6a, #sec7a, #sec10a, #sec12a, #sec14a {
     position: absolute;
     width: 40%;
     top: 5%;
@@ -321,6 +321,18 @@ section {
     text-transform: uppercase;
     font-weight: bold;
     font-size: 30px;
+}
+
+#sec9a {
+    position: absolute;
+    width: 50%;
+    bottom: 70%;
+    text-align: center;
+    font-family: 'Noto Serif Display', serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+
 }
 
 #sec11a, #sec17a {
@@ -406,7 +418,6 @@ section {
     left: 82%;
     text-align: right;
 }
-
 
 #section7 p {
     margin-bottom: 40%;
