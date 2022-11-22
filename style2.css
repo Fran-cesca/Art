@@ -65,6 +65,19 @@ h3 {
     margin-left: 5px;
 }
 
+.arrowconclusion {
+    content: url(./img/futarrow2.png);
+    width: auto;
+    height: 8vh;
+    filter: invert(1);
+    overflow: hidden;
+    transform: translatey(0px);
+    animation: float2 2s ease-in-out infinite;
+    position: absolute;
+    left: 50%;
+    top: 85%;
+}
+
 p {
     margin-bottom: 5%;
 }
@@ -383,11 +396,26 @@ section {
     position: absolute;
     width: 37%;
     left: 57%;
-    bottom: 16%;
+    bottom: 17%;
     text-align: right;
 }
 
 #sec21b {
+    position: absolute;
+    width: 35%;
+    left: 5%;
+    bottom: 15%;
+}
+
+#sec22a {
+    position: absolute;
+    width: 37%;
+    left: 57%;
+    bottom: 12%;
+    text-align: right;
+}
+
+#sec22b {
     position: absolute;
     width: 35%;
     left: 5%;
@@ -405,9 +433,41 @@ section {
 
 #sec12b {
     position: absolute;
-    width: 35%;
-    left: 5%;
     text-align: left;
+    width: 42%;
+    top: 20%;
+    left: 5%;
+
+}
+
+#sec12c {
+    position: absolute;
+    width: 30%;
+    top: 42%;
+    left: 10%;
+}
+
+#sec12d {
+    margin-left: 66%;
+    margin-bottom: 5%;
+    width: 84%;
+}
+
+
+#sec13a {
+    position: absolute;
+    text-align: left;
+    width: 42%;
+    top: 20%;
+    left: 5%;
+
+}
+
+#sec13b {
+    position: absolute;
+    width: 30%;
+    top: 42%;
+    left: 10%;
 }
 
 #sec4b {
@@ -569,11 +629,6 @@ section {
 #map_moma {
     width: 100%;
     height: 400px
-}
-
-.viz {
-    width: 105%;
-    margin-bottom: 5%;
 }
 
 
