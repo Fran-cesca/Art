@@ -454,20 +454,23 @@ section {
 }
 
 
-#sec13a {
+#sec13b {
     position: absolute;
     text-align: left;
-    width: 42%;
-    top: 20%;
+    width: 48%;
+    top: 15%;
     left: 5%;
 
 }
 
-#sec13b {
+#sec13c {
     position: absolute;
     width: 30%;
-    top: 42%;
-    left: 10%;
+}
+
+#sec13d {
+    position: absolute;
+    width: 30%;
 }
 
 #sec4b {
