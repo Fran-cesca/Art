@@ -655,9 +655,9 @@ section {
     position: absolute;
     width: 110%;
     height: auto;
-    top: 210%;
+    top: 170%;
     left: 50%;
-    transform: translate(-50%, -210%);
+    transform: translate(-50%, -170%);
 } 
 
 #sec12d{
