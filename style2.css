@@ -371,6 +371,14 @@ section {
     transform: translate(10%, -15%);
 }
 
+#sec17b {
+    position: absolute;
+    width: 29%;
+    top: 100%;
+    left: 2%;
+    transform: translate(2%, -100%);
+}
+
 #sec11c {
     position: absolute;
     width: 15%;
