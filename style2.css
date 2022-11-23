@@ -362,9 +362,28 @@ section {
     text-align: center;
 }
 
+
+#sec11b {
+    position: absolute;
+    width: 15%;
+    top: 10%;
+    left: 10%;
+    transform: translate(10%, -10%);
+}
+
+#sec11c {
+    position: absolute;
+    width: 15%;
+    top: 35%;
+    left: 75%;
+    transform: translate(-75%, -35%);
+    transform: rotate(30deg);
+}
+
+
 #sec18a {
     position: absolute;
-    width: 39%;
+    width: 50%;
     left: 5%;
     bottom: 10%;
 }
@@ -533,7 +552,6 @@ section {
 }
 
 
-
 #section7 p {
     margin-bottom: 40%;
 }
@@ -691,7 +709,7 @@ section {
 }
 
 
-#conclusion1, #conclusion2, #conclusion3 {
+#conclusion1, #conclusion2, #conclusion3, #conclusion4 {
     background-color: black !important;
     color: white !important;
 }
