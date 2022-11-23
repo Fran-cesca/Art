@@ -51,8 +51,8 @@ h3 {
     height: 4vh;
     filter: invert(1);
     position: relative;
-    transform: rotate(180deg);
-    bottom: 10%;
+    transform: rotate(270deg);
+    bottom: 7%;
     margin-right: 5px;
 }
 
@@ -63,6 +63,7 @@ h3 {
     filter: invert(1);
     position: relative;
     margin-left: 5px;
+    transform: rotate(90deg);
 }
 
 .arrowconclusion {
@@ -786,7 +787,7 @@ section {
 }
 
 #map_moma {
-    width: 50%;
+    width: 100%;
     height: 400px;
     margin-bottom: 5%;
 }
