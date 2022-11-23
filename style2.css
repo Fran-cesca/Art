@@ -624,7 +624,7 @@ section {
     transform: translate(-30%, -25%);
 } 
 
-#sec15c {
+#sec15c{
     position: absolute;
     width: 110%;
     height: auto;
@@ -640,6 +640,42 @@ section {
     top: 32%;
     left: 30%;
     transform: translate(-30%, -32%);
+} 
+
+#sec13a {
+    position: absolute;
+    width: 110%;
+    height: auto;
+    top: 170%;
+    left: 45%;
+    transform: translate(-45%, -170%);
+} 
+
+#sec13b {
+    position: absolute;
+    height: auto;
+    width: 90%;
+    top: 40%;
+    left: 30%;
+    transform: translate(-30%, -40%);
+} 
+
+#sec13d {
+    position: absolute;
+    width: 110%;
+    height: auto;
+    top: 250%;
+    left: 60%;
+    transform: translate(-60%, -250%);
+} 
+
+#sec13c {
+    position: absolute;
+    height: auto;
+    width: 90%;
+    top: 40%;
+    left: 30%;
+    transform: translate(-30%, -40%);
 } 
 
 
