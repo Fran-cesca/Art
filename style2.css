@@ -388,6 +388,15 @@ section {
     transform: rotate(30deg);
 }
 
+#sec20a {
+    position: absolute;
+    width: 25%;
+    top: 35%;
+    left: 70%;
+    transform: translate(-70%, -35%);
+    transform: rotate(20deg);
+}
+
 
 #sec18a {
     position: absolute;
