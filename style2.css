@@ -532,6 +532,8 @@ section {
     text-align: right;
 }
 
+
+
 #section7 p {
     margin-bottom: 40%;
 }
@@ -566,6 +568,24 @@ section {
     width: 80%; 
     height: auto; 
     z-index: -1;
+}
+
+#sec8a {
+    position: absolute;
+    height: auto;
+    width: 76%;
+    top: 40%;
+    left: 14%;
+    transform: translate(-14%, -40%);
+}
+
+#sec8b {
+    position: absolute;
+    height: auto;
+    width: 76%;
+    top: 69%;
+    left: 50%;
+    transform: translate(-50%, -69%);
 }
 
 
