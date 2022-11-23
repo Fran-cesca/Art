@@ -503,11 +503,15 @@ section {
 #sec13c {
     position: absolute;
     width: 30%;
+    top: 15%;
+    left: 5%;
 }
 
 #sec13d {
     position: absolute;
     width: 30%;
+    top: 15%;
+    left: 5%;
 }
 
 #sec4b {
@@ -681,10 +685,10 @@ section {
 #sec12e {
     position: absolute;
     height: auto;
-    width: 110%;
-    top: -40%;
+    width: 100%;
+    top: -30%;
     left: 30%;
-    transform: translate(-30%, 40%);
+    transform: translate(-30%, 30%);
 } 
 
 #sec13a {
