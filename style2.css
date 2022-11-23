@@ -588,6 +588,42 @@ section {
     transform: translate(-50%, -69%);
 }
 
+#sec15a {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 130%;
+    left: 50%;
+    transform: translate(-50%, -130%);
+} 
+
+#sec15b {
+    position: absolute;
+    height: auto;
+    width: 77%;
+    top: 25%;
+    left: 30%;
+    transform: translate(-30%, -25%);
+} 
+
+#sec15c {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    top: 170%;
+    left: 50%;
+    transform: translate(-50%, -170%);
+} 
+
+#sec15d {
+    position: absolute;
+    height: auto;
+    width: 77%;
+    top: 32%;
+    left: 30%;
+    transform: translate(-30%, -32%);
+} 
+
 
 .from-left {
     -webkit-transform: translateX(-50%);
