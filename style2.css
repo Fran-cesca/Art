@@ -590,7 +590,7 @@ section {
 
 #sec15a {
     position: absolute;
-    width: 100%;
+    width: 110%;
     height: auto;
     top: 130%;
     left: 50%;
@@ -600,7 +600,7 @@ section {
 #sec15b {
     position: absolute;
     height: auto;
-    width: 77%;
+    width: 78%;
     top: 25%;
     left: 30%;
     transform: translate(-30%, -25%);
@@ -608,17 +608,17 @@ section {
 
 #sec15c {
     position: absolute;
-    width: 100%;
+    width: 110%;
     height: auto;
-    top: 170%;
+    top: 210%;
     left: 50%;
-    transform: translate(-50%, -170%);
+    transform: translate(-50%, -210%);
 } 
 
 #sec15d {
     position: absolute;
     height: auto;
-    width: 77%;
+    width: 78%;
     top: 32%;
     left: 30%;
     transform: translate(-30%, -32%);
