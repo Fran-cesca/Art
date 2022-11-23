@@ -365,10 +365,10 @@ section {
 
 #sec11b {
     position: absolute;
-    width: 15%;
-    top: 10%;
+    width: 12%;
+    top: 15%;
     left: 10%;
-    transform: translate(10%, -10%);
+    transform: translate(10%, -15%);
 }
 
 #sec11c {
@@ -615,7 +615,16 @@ section {
     transform: translate(-50%, -130%);
 } 
 
-#sec15b {
+#sec12b {
+    position: absolute;
+    width: 110%;
+    height: auto;
+    top: 120%;
+    left: 50%;
+    transform: translate(-50%, -120%);
+} 
+
+#sec15b, #sec12c {
     position: absolute;
     height: auto;
     width: 78%;
@@ -624,13 +633,22 @@ section {
     transform: translate(-30%, -25%);
 } 
 
-#sec15c{
+#sec15c {
     position: absolute;
     width: 110%;
     height: auto;
     top: 210%;
     left: 50%;
     transform: translate(-50%, -210%);
+} 
+
+#sec12d{
+    position: absolute;
+    width: 78%;
+    height: auto;
+    top: 80%;
+    left: -30%;
+    transform: translate(-30%, -80%);
 } 
 
 #sec15d {
@@ -640,6 +658,15 @@ section {
     top: 32%;
     left: 30%;
     transform: translate(-30%, -32%);
+} 
+
+#sec12e {
+    position: absolute;
+    height: auto;
+    width: 110%;
+    top: -40%;
+    left: 30%;
+    transform: translate(-30%, 40%);
 } 
 
 #sec13a {
