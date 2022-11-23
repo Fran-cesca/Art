@@ -461,10 +461,10 @@ section {
 
 #sec14b {
     position: absolute;
-    width: 80%;
-    top: 40%;
+    width: 70%;
+    top: 25%;
     left: 50%;
-    transform: translate(-50%, -40%);
+    transform: translate(-50%, -25%);
     text-align: center;
 }
 
