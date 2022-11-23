@@ -130,19 +130,20 @@ h2 {
 #description {
     position: absolute;
     width: 70%;
-    top: 65% !important;
+    top: 80% !important;
     left: 50% !important;
     transform: translate(-50%, -65%) !important;
 }
 
-#description p {
+#description p{
     position: relative;
     text-align: justify !important;
+    margin-bottom: 5%;
 }
 
 #portal {
     position: absolute !important;
-    top: 170% !important;
+    top: 90% !important;
     left: 50% !important;
     transform: translate(-50%, -170%) !important;
     text-decoration: underline dotted;
