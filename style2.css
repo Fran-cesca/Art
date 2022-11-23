@@ -331,7 +331,7 @@ section {
 
 #sec4a, #sec5a, #sec6a, #sec7a, #sec10a, #sec12a, #sec14a {
     position: absolute;
-    width: 60%;
+    width: 100%;
     top: 5%;
     left: 50%;
     transform: translate(-50%, -10%);
